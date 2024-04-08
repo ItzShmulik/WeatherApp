@@ -1,0 +1,26 @@
+body{
+    background-color: #d3f0f2;
+}
+
+h1{
+    color: #000;
+    text-align: center;
+    font-family: Calibri;
+}
+
+label{
+    display: block;
+    text-align: center;
+    font-family: Calibri;
+    font-size: 1.5rem;
+}
+
+input{
+    display: block;
+    margin: 20px auto auto auto;
+    border: #66c1d4 2px dotted;
+    height: 5vh;
+    width: 30vw;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
